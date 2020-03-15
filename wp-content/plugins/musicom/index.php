@@ -141,8 +141,8 @@ function musicom_singers_2($atts){
  
 
 add_shortcode('musicom','musicom_singers_2');
-[musicom id="your-id"];
-var_dump()
+//[musicom id="your-id"];
+//var_dump()
 
 
 // short codes(code 2)
@@ -177,4 +177,4 @@ function musicom_singer($atts){
  
 add_shortcode('musicom','musicom_singer');
 
-[musicom id="your-id"];
+//[musicom id="your-id"];

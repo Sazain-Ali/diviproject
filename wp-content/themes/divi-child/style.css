@@ -10,3 +10,12 @@ Template:Divi
 body .container{
     width: 100%;
 }
+
+body .et_pb_post a img{
+    width: 250px;
+
+}
+body img {
+    max-width: 30%;
+    height: auto;
+}
